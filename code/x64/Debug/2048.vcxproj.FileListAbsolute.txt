@@ -1,0 +1,4 @@
+F:\HelloC\B\2048\2048\x64\Debug\2048.exe
+E:\HelloC\B\2048\2048\x64\Debug\2048.exe
+D:\2048\2048\x64\Debug\2048.exe
+E:\U盘\HelloC\B\2048\2048\x64\Debug\2048.exe

@@ -1,0 +1,13 @@
+﻿  2048.cpp
+E:\HelloC\B\2048\2048\2048.cpp(21,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\HelloC\B\2048\2048\2048.cpp(94,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\HelloC\B\2048\2048\2048.cpp(119,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\HelloC\B\2048\2048\2048.cpp(417,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\HelloC\B\2048\2048\2048.cpp(429,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  正在生成代码
+E:\HelloC\B\2048\2048\2048.cpp(156): warning C4715: “generate_new”: 不是所有的控件路径都返回值
+  17 of 17 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  2048.vcxproj -> E:\HelloC\B\2048\2048\x64\Release\2048.exe
