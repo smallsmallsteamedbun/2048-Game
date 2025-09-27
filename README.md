@@ -1,6 +1,6 @@
 # 2048游戏
 
-![image-20250927223819223](C:\Users\lin\AppData\Roaming\Typora\typora-user-images\image-20250927223819223.png)
+![image-20250927223819223](https://oss.mcso.top/wordpress/2025/09/20250927152120376.png)
 
 > 之前了解到easyx之后做的第一个游戏。背景图片是网上找的，其中的元素方块是自己手绘原创的。做了一些游戏中的动画优化，让方块平移的有层次感。
 
